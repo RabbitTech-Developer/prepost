@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/prepost/static/css/main.e3ff04d7.css",
+    "main.js": "/prepost/static/js/main.242f4e69.js",
+    "static/media/Arial-bold.ttf": "/prepost/static/media/Arial-bold.ff5427169c7aaacb3946.ttf",
+    "static/media/Ramlogo.png": "/prepost/static/media/Ramlogo.9da4f1c7a22a1b0def6f.png",
+    "static/media/mouth.png": "/prepost/static/media/mouth.eea11fa0d60690ad22a0.png",
+    "static/media/ANGSA.ttf": "/prepost/static/media/ANGSA.b8e3817fe5ec314a7d17.ttf",
+    "static/media/CORDIA.ttf": "/prepost/static/media/CORDIA.b1ddf3d930e781b74ab8.ttf",
+    "static/media/cordiaub.ttf": "/prepost/static/media/cordiaub.ebf4c8b18d08367dd838.ttf",
+    "static/media/angsab.ttf": "/prepost/static/media/angsab.e9597f8f9d4970b11760.ttf",
+    "static/media/CordiaNewBold.ttf": "/prepost/static/media/CordiaNewBold.f9e757dd128e3721fd87.ttf",
+    "index.html": "/prepost/index.html",
+    "main.e3ff04d7.css.map": "/prepost/static/css/main.e3ff04d7.css.map",
+    "main.242f4e69.js.map": "/prepost/static/js/main.242f4e69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ff04d7.css",
+    "static/js/main.242f4e69.js"
+  ]
+}
